@@ -24,4 +24,3 @@ package taller8;
          * impidiendo que las clases derivadas lean o alteren estos campos de forma directa.
          */
 
- 
